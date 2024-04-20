@@ -25,9 +25,9 @@
    <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/8/88/Java_logo.png/220px-Java_logo.png" alt="java" width="40" height="40"/> 
   </a>
-  <a href="https://spring.io/projects/spring-boot/" target="_blank"> 
+<!---<a href="https://spring.io/projects/spring-boot/" target="_blank"> 
     <img src="https://gitlab.com/uploads/-/system/project/avatar/20778083/springboot-logo.png" alt="springboot" width="40" height="40"/> 
-  </a> 
+  </a>---> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
