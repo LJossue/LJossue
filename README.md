@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 🌟 I'm looking for **new job opportunities**
-
 - 📫 How to reach me: **<a href="mailto:developer.leandro.ramirez@gmail.com">Email</a>**
 
 - ⚡ What I like to do: I enjoy music, learning new technologies... and, of course, coding
